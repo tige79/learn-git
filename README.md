@@ -1,1 +1,1 @@
-We are learning git
+Now I am able to push from local to remote
